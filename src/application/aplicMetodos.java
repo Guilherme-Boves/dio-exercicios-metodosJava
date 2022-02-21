@@ -15,6 +15,8 @@ public class aplicMetodos {
 		double num1, num2, valorEmprestimo;
 		int op, qtdParcelas;
 		
+		System.out.println("Exercício Métodos\n");
+		
 		/* Exercício 1 - Calculadora */
 		System.out.print("Número 1: ");
 		num1 = sc.nextDouble();
