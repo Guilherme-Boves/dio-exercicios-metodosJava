@@ -2,11 +2,11 @@ package application;
 
 import java.util.Scanner;
 
-import entities.Calculadora;
-import entities.Emprestimo;
-import entities.Mensagem;
+import ExMetodos.Calculadora;
+import ExMetodos.Emprestimo;
+import ExMetodos.Mensagem;
 
-public class aplic {
+public class aplicMetodos {
 
 	public static void main(String[] args) {
 		
