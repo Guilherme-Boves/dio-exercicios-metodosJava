@@ -30,7 +30,10 @@ public class Calculadora {
 			break;			
 		case 4:
 			n1 = n1 / n2;
-			System.out.println("\nOperação: Divisão\nResultado = " + n1);	
+			System.out.println("\nOperação: Divisão\nResultado = " + n1);
+			break;
+		default:
+			System.out.println("Opção inválida!");
 		}		
 	}
 }
